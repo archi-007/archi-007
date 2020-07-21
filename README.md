@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a sophomore at **NIT, Durgapur** and specialise in website backend development in **Django**.</br> 
+I am a sophomore in Computer Science and Engineering at **NIT, Durgapur** and specialise in website backend development in **Django**.</br> 
 I currently work as a backend developer intern at **Mzaalo**(Xfinite Global PLC).</br>
 
 ## Want to get in touch :smiley:</br>
