@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a sophomore in Computer Science and Engineering at **NIT, Durgapur**.</br> 
+I am a sophomore in Computer Science and Engineering at **NIT Durgapur**.</br> 
 I specialise in software development in **Python**.</br>
 
 ## Want to get in touch :smiley:</br>
