@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I am a sophomore in Computer Science and Engineering at **NIT, Durgapur** and specialise in website backend development in **Django**.</br> 
-I currently work as a software development engineer intern at **Mzaalo**(Xfinite Global PLC).</br>
+I am a sophomore in Computer Science and Engineering at **NIT, Durgapur**.</br> 
+I specialise in software development in **Python**.</br>
 
 ## Want to get in touch :smiley:</br>
 🔭 Hit me up on [Linkedin](https://www.linkedin.com/in/archisman-ghosh-8724511a2/)</br>
