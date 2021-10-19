@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am a sophomore in Computer Science and Engineering at **NIT Durgapur**.</br> 
-I specialise in software development in **Python**.</br>
+I am a junior in Computer Science and Engineering at **NIT Durgapur**.</br> 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=archi-007&theme=onedark&show_icons=true&locale=en&layout=compact)<br>
 
